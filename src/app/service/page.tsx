@@ -133,7 +133,7 @@ const Service = () => {
 
       <div className="w-full bg-gray-bg">
             <h2 className="lg:w-[1140px] mx-auto lg:text-5xl ml-12 lg:ml-0 text-3xl font-bold pt-[60px]">More from this topic</h2>
-            <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col flex-nowrap gap-7 pb-[100px] pt-[80px]">
+            <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col items-center flex-nowrap gap-7 pb-[100px] pt-[80px]">
           <div className="w-[361px] flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
             <p className="lg:w-full text-base text-sm border-b-2 border-gray-darked pb-5 text-gray-darked uppercase font-bold ">
               Service

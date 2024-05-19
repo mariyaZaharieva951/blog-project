@@ -59,7 +59,7 @@ const Blog = () => {
           />
         </div>
 
-        <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col justify-center flex-nowrap gap-7 mb-[80px]">
+        <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col items-center justify-center flex-nowrap gap-7 mb-[80px]">
           <div className="flex flex-col gap-3 items-start mx-[130px] lg:mx-0">
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               News
@@ -107,7 +107,7 @@ const Blog = () => {
           </div>
         </div>
 
-        <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col flex-nowrap gap-7">
+        <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col items-center flex-nowrap gap-7">
           <div className="flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Sales
@@ -227,7 +227,7 @@ const Blog = () => {
           </div>
         </div>
 
-        <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col flex-nowrap gap-7 pb-[100px] pt-[80px] px-7 lg:px-0">
+        <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col items-center flex-nowrap gap-7 pb-[100px] pt-[80px] px-7 lg:px-0">
           <div className="w-[361px] flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
             <p className="lg:w-full text-base text-sm text-gray-darked uppercase font-bold">
               Service

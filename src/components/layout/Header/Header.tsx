@@ -69,7 +69,7 @@ const Header = () => {
       </button>
       {isOpen && (
         <nav className="absolute top-9 bg-white-text text-custom-bg shadow-md rounded-md z-50">
-          <ul className="flex flex-col gap-y-2 text-sm">
+          <ul className="flex flex-col gap-y-2 text-sm pt-3">
             <li>
               <Link href="/product" className="hover:bg-gray-100 hover:rounded-md px-4 py-2">
                 Product
