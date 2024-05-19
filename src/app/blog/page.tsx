@@ -11,12 +11,12 @@ const Blog = () => {
       <Header />
       <div className="lg:w-[1140px] mx-auto h-auto font-custom-font flex flex-col">
         <div className="flex flex-col gap-[120px] justify-center lg:items-start items-center mt-[80px]">
-          <h1 className="lg:w-[689px] lg:text-6xl text-3xl font-bold">
+          <h1 className="lg:w-[689px] lg:text-6xl text-3xl font-bold text-center lg:text-start">
             News and insights
             <span className="text-gray-darked"> from our experts</span>
           </h1>
           <div className="lg:w-[689px]">
-            <ul className="flex lg:gap-[60px] gap-10 justify-start text-nowrap">
+            <ul className="flex lg:gap-[60px] lg:gap-10 gap-5 justify-start text-nowrap">
               <li className=" text-gray-darked lg:text-lg pb-7 text-base hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
                 All Articles
               </li>
@@ -41,7 +41,7 @@ const Blog = () => {
       </div>
       <div className="bg-white-text">
         <div className="lg:w-[1140px] mx-auto lg:custom-container flex flex-col lg:flex-row gap-7 py-[100px] font-custom-font">
-          <div className="flex flex-col items-start border-t-2 border-b-2 py-7 border-gray-darked mx-7 lg:mx-0">
+          <div className="flex flex-col items-start border-t-2 border-b-2 py-7 border-gray-darked mx-12 md:mx-12 lg:mx-0">
             <p className="lg:text-sm text-xs uppercase text-gray-darked mb-5">
               Service
             </p>
@@ -54,7 +54,7 @@ const Blog = () => {
             </p>
           </div>
           <img
-            className="w-[555px] h-[370px] mx-auto lg:mx-0"
+            className="lg:w-[555px] lg:h-[370px] mx-auto lg:mx-0"
             src="./assets/blog-img.png" alt="img"
           />
         </div>
@@ -156,11 +156,11 @@ const Blog = () => {
         </div>
 
         <div className="lg:w-[1140px] mx-auto mt-[80px] px-7">
-          <p className="text-sm text-gray-dark uppercase text-left mb-3">
+          <p className="text-sm text-gray-dark uppercase text-left mb-3 mx-7 lg:mx-0">
             Marketing
           </p>
           <div className="flex lg:flex-row flex-col lg:justify-between justify-center gap-5">
-            <div className="lg:w-[555px] lg:h-[581px] flex flex-col lg:items-start  gap-7 border-t-2 border-gray-dark pt-4">
+            <div className="lg:w-[555px] lg:h-[581px] flex flex-col mx-7 lg:mx-0 lg:items-start  gap-7 border-t-2 border-gray-dark pt-4">
               <img src="./assets/blog-marketing.png" alt="img"/>
               <h3 className="lg:w-[555px] lg:text-3xl text-xl font-bold">
                 Email marketing best practices: 10 experts share their email
@@ -173,7 +173,7 @@ const Blog = () => {
                 </span>
               </p>
             </div>
-            <div className="lg:w-[555px] lg:h-[581px] flex flex-col items-start">
+            <div className="lg:w-[555px] lg:h-[581px] flex flex-col items-start mx-7 mx-0">
               <div className="lg:w-[555px] flex flex-col items-start gap-5 border-t-2  border-gray-dark">
                 <h3 className="lg:text-3xl text-xl font-bold mt-5">
                   Access Roooby leads features on your mobile

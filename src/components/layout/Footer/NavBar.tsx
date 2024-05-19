@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const NavBar = () => {
     return (
-        <div className='flex lg:gap-[120px] gap-[70px] mx-auto lg:mx-0 mt-5 lg:mt-0 justify-center font-custom-font'>
+        <div className='w-[450px] lg:w-[1140px] flex lg:gap-[120px] gap-[30px] px-7 mx-auto lg:mx-0 mt-5 lg:mt-0 justify-center font-custom-font'>
             <div className='flex flex-col gap-4 items-start text-nowrap'>
                 <h4 className='text-base font-bold'>Company</h4>
                 <ul className='flex flex-col gap-3 text-sm'>

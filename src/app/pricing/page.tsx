@@ -16,11 +16,11 @@ const Pricing = () => {
       <Header />
       <div className="lg:w-[1140px] mx-auto h-auto font-custom-font flex flex-col">
         <div className="flex lg:flex-row flex-col lg:justify-between justify-center lg:items-end items-center my-[80px]">
-          <h1 className="lg:w-[689px] lg:text-6xl text-3xl font-bold">
+          <h1 className="lg:max-w-[689px] max-w-[450px] lg:text-6xl text-3xl font-bold">
             Choose the right plan
-            <span className="text-gray-darked">for your business</span>
+            <span className="text-gray-darked">  for your business</span>
           </h1>
-          <p className="lg:w-[360px] lg:text-lg text-base mx-[80px] mt-5">
+          <p className="lg:max-w-[360px] max-w-[330px] lg:text-lg text-base mx-[70px] mt-5">
             Built with love for growing businesses. Check out the Roooby CRM
             pricing grid below. Switch between plans at any time.
           </p>
@@ -218,7 +218,7 @@ const Pricing = () => {
         </div>
       </div>
       <div className="flex flex-col bg-white-text lg:items-end items-center pb-12">
-        <h2 className="lg:w-[594px] lg:text-6xl text-3xl font-bold text-left mb-[80px] lg:ml-[190px] ml-12 pt-[120px] lg:mr-[760px] mr-[300px]">
+        <h2 className="lg:max-w-[594px] max-w-[320px] lg:text-6xl text-3xl font-bold text-left mb-[80px] lg:ml-[190px] ml-12 pt-[120px] lg:mr-[760px]">
           Frequently asked questions
         </h2>
         <div className="lg:w-[945px] h-auto font-custom-font flex flex-col lg:mr-[190px] mx-5 lg:mx-0">
