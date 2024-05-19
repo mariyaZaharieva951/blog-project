@@ -14,9 +14,9 @@ const Sales = () => {
                     Track stages and milestones of your deals to keep the sales process on track</li>
             </ul>
         </div>
-        <div className="lg:w-[555px] w-[500px] flex mx-auto lg:mx-0 lg:h-[555px] h-auto relative">
+        <div className="lg:w-[555px] w-[450px] flex mx-auto lg:mx-0 lg:h-[555px] h-auto relative">
             <img className="lg:w-full h-auto rounded-lg bg-blue-bg py-12 px-[60px]" src="./assets/sales1.png" alt="img"/>
-            <img className="lg:w-[50%] absolute top-[80px] right-8" src="./assets/sales2.png" alt="img"/>
+            <img className="lg:w-[50%] w-[30%] absolute top-[80px] right-8" src="./assets/sales2.png" alt="img"/>
         </div>
       </div>
     );

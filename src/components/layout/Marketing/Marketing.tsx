@@ -1,7 +1,7 @@
 const Marketing= () => {
     return (
       <div className="custom-container flex lg:flex-row gap-12 flex-col lg:justify-between mx-12 border-t-2 border-gray-dark font-custom-font pt-10 pb-12">
-        <div className="lg:w-[555px] w-[500px] mx-auto lg:mx-0 flex lg:h-[555px]">
+        <div className="lg:w-[555px] w-[450px] mx-auto lg:mx-0 flex lg:h-[555px]">
             <img className="lg:w-full h-auto rounded-lg" src="./assets/marketing.png" alt="img"/>
         </div>
         <div className="lg:w-[487px] w-[420px] mx-auto lg:h-auto flex flex-col items-start pt-5 mt-12">
