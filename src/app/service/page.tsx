@@ -65,7 +65,7 @@ const Service = () => {
           ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
           consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate
           velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum
-          fugiat quo voluptas nulla pariatur?"
+          fugiat quo voluptas nulla pariatur?
         </p>
         <p className="lg:text-2xl text-lg font-bold border-t-2  border-gray-dark pt-3">
           “At vero eos et accusamus et iusto odio dignissimos ducimus qui
@@ -112,7 +112,7 @@ const Service = () => {
           ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
           consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate
           velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum
-          fugiat quo voluptas nulla pariatur?"
+          fugiat quo voluptas nulla pariatur?
         </p>
         <div className="flex justify-between  border-y-2 border-gray-darked py-3 mb-[120px]">
           <div className="flex gap-3 items-center my-3">

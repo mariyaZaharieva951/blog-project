@@ -6,11 +6,11 @@ const Service = () => {
             <h2 className="lg:text-5xl text-3xl leading-relaxed font-bold">Help Desk Software</h2>
             <p className="mt-7 lg:text-lg leading-7">Great customer support separates decent companies from excellent companies. A positive customer support experience is a crucially important piece of the customer journey. </p>
             <ul className="lg:text-lg mt-5">
-                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg"/>
+                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg" alt="img"/>
                     Close more deals with single-page contact managementResolve every issue in the shortest possible time with powerful ticketing features</li>
-                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg"/>
+                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg" alt="img"/>
                     Categorize tickets according to the issue and route them to the appropriate group (e.g. sales or support)</li>
-                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg"/>
+                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg" alt="img"/>
                     Enjoy at-a-glance views of important data—such as ticket priority—on your dashboard</li>
             </ul>
         </div>
