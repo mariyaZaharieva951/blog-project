@@ -15,7 +15,7 @@ const Results = () => {
                     <div className="lg:w-[749px] w-[420px]">
                         <p className="lg:text-lg text-base">Using Кирилица CRM is one of the best decisions we’ve ever made. We’ve seen our annual revenue explode, and the outlook just keeps getting sunnier.</p>
                         <div className="flex gap-2 mt-5">
-                            <img src="./assets/user1.png"/>
+                            <img src="./assets/user1.png" alt="img"/>
                             <div className="lg:text-base text-sm">
                                 <p className="font-bold">Nellie Foster</p>
                                 <p>Founder & CEO, Foster Business Strategies</p>
@@ -31,7 +31,7 @@ const Results = () => {
                     <div className="lg:w-[749px] w-[420px]">
                         <p className="lg:text-lg text-base">Yoora is created for sales people. It’s the kind of software that just works. I don’t have to try to make it work. It already does. It’s just perfect.</p>
                         <div className="flex gap-2 mt-5">
-                            <img src="./assets/user2.png"/>
+                            <img src="./assets/user2.png" alt="img"/>
                             <div className="lg:text-base text-sm">
                                 <p className="font-bold">Lawrence Gibbs</p>
                                 <p>Marketing Director</p>

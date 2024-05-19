@@ -13,14 +13,14 @@ const Customers = () => {
 
         <div className="flex flex-nowrap mx-5 lg:mx-0 justify-between gap-7">
           <article>
-            <img className="pb-10" src="./assets/apostrophe.png" />
+            <img className="pb-10" src="./assets/apostrophe.png" alt="img"/>
             <p className="lg:text-xl text-sx border-t-2 border-gray-dark pt-5">
               The best thing we love about Yoora is it does two-way sync with
               Google Apps. It has helped us to better organize and keep
               everything on track.
             </p>
             <div className="flex gap-2 mt-10">
-              <img src="./assets/customer1.png" />
+              <img src="./assets/customer1.png" alt="img"/>
               <div className="flex flex-col lg:text-base text-xs">
                 <p className="font-bold">Lola Ross</p>
                 <p>Marketing Director</p>
@@ -28,14 +28,14 @@ const Customers = () => {
             </div>
           </article>
           <article>
-            <img className="pb-10" src="./assets/apostrophe.png" />
+            <img className="pb-10" src="./assets/apostrophe.png" alt="img"/>
             <p className="lg:text-xl text-sx border-t-2 border-gray-dark pt-5">
               The best thing we love about Yoora is it does two-way sync with
               Google Apps. It has helped us to better organize and keep
               everything on track.
             </p>
             <div className="flex gap-2 mt-10">
-              <img src="./assets/customer1.png" />
+              <img src="./assets/customer1.png" alt="img"/>
               <div className="flex flex-col lg:text-base text-xs">
                 <p className="font-bold">Lola Ross</p>
                 <p>Marketing Director</p>
@@ -43,14 +43,14 @@ const Customers = () => {
             </div>
           </article>
           <article>
-            <img className="pb-10" src="./assets/apostrophe.png" />
+            <img className="pb-10" src="./assets/apostrophe.png" alt="img" />
             <p className="lg:text-xl text-sx border-t-2 border-gray-dark pt-5">
               The best thing we love about Yoora is it does two-way sync with
               Google Apps. It has helped us to better organize and keep
               everything on track.
             </p>
             <div className="flex gap-2 mt-10">
-              <img src="./assets/customer1.png" />
+              <img src="./assets/customer1.png" alt="img"/>
               <div className="flex flex-col lg:text-base text-xs">
                 <p className="font-bold">Lola Ross</p>
                 <p>Marketing Director</p>

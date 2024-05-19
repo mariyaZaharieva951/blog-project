@@ -14,7 +14,7 @@ const Introduction = () => {
         </p>
         <Form />
       </div>
-      <img className="lg:w-[757px] lg:h-[548px] w-full h-auto" src="./assets/hero-whole.png"/>
+      <img className="lg:w-[757px] lg:h-[548px] w-full h-auto" src="./assets/hero-whole.png" alt="img"/>
     </div>
   );
 };

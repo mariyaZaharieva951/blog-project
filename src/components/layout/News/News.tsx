@@ -8,14 +8,14 @@ const News = () => {
             <div className="flex lg:flex-row flex-col items-center lg:gap-5 gap-10 mt-12">
                 <div className="w-[555px] lg:h-[580px]">
                     <p className="text-gray-dark font-bold uppercase">service</p>
-                    <img className="border-t-2 border-gray-dark pt-6" src="./assets/new1.png"/>
+                    <img className="border-t-2 border-gray-dark pt-6" src="./assets/new1.png" alt="img"/>
                     <h3 className="lg:text-3xl font-bold text-xl mt-5">How To Deliver a Successful 
                         Product Launch</h3>
                     <p className="text-gray-dark text-base mt-5"><span className="font-bold text-black-tx">05 Sep 2024,</span> by Joshua Nash</p>
                 </div>
                 <div className="w-[555px] lg:h-[580px]">
                     <p className="text-gray-dark uppercase font-bold">service</p>
-                    <img className="border-t-2 border-gray-dark pt-6" src="./assets/new2.png"/>
+                    <img className="border-t-2 border-gray-dark pt-6" src="./assets/new2.png" alt="img"/>
                     <h3 className="lg:text-3xl font-bold text-xl mt-5">What Makes an Authentic Employee Profile, and Why Does It Matter?</h3>
                     <p className="text-gray-dark text-base mt-5"><span className="font-bold text-black-tx">07 Sep 2023,</span> by Ivan Neshev</p>
                 </div>

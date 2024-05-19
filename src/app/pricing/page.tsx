@@ -44,39 +44,39 @@ const Pricing = () => {
             </div>
             <ul className="flex flex-col gap-3 border-t-2 border-gray-dark">
               <li className="flex gap-2 mt-6">
-                <img src="./assets/ic_done.png" />2 team members
+                <img src="./assets/ic_done.png" alt="img"/>2 team members
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 1,000 Contacts & Companies
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />5 Campaign Workflows
+                <img src="./assets/ic_done.png" alt="img"/>5 Campaign Workflows
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 10 Nodes Per Campaign
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />5 Automation Rules (Triggers)
+                <img src="./assets/ic_done.png" alt="img"/>5 Automation Rules (Triggers)
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />3 Plugins/Integrations
+                <img src="./assets/ic_done.png" alt="img"/>3 Plugins/Integrations
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Marketing Automation{" "}
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Custom Deal Tracks
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Automated Voicemails
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Post-call Automation
               </li>
             </ul>
@@ -105,40 +105,40 @@ const Pricing = () => {
             </div>
             <ul className="flex flex-col gap-3 border-t-2 border-gray-dark">
               <li className="flex gap-2 mt-6">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 10 team members
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 2,500 Contacts & Companies
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />5 Campaign Workflows
+                <img src="./assets/ic_done.png" alt="img"/>5 Campaign Workflows
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 10 Nodes Per Campaign
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />5 Automation Rules (Triggers)
+                <img src="./assets/ic_done.png" alt="img"/>5 Automation Rules (Triggers)
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />3 Plugins/Integrations
+                <img src="./assets/ic_done.png" alt="img"/>3 Plugins/Integrations
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Marketing Automation{" "}
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Custom Deal Tracks
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Automated Voicemails{" "}
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Post-call Automation{" "}
               </li>
             </ul>
@@ -161,43 +161,43 @@ const Pricing = () => {
             </div>
             <ul className="flex flex-col gap-3 border-t-2 border-gray-dark">
               <li className="flex gap-2 mt-6">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Unlimited team members
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 5,000 Contacts & Companies
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 25 Campaign Workflows
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 20 Nodes Per Campaign
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 15 Automation Rules (Triggers)
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 10 Plugins/Integrations
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Marketing Automation
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Custom Deal Tracks
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Automated Voicemails
               </li>
               <li className="flex gap-2">
-                <img src="./assets/ic_done.png" />
+                <img src="./assets/ic_done.png" alt="img"/>
                 Post-call Automation
               </li>
             </ul>
@@ -227,7 +227,7 @@ const Pricing = () => {
               <h3 className="lg:text-3xl text-xl font-bold lg:mt-10 mt-3">
                 How Does Roooby CRM Compare To The Competition?
               </h3>
-              <img onClick={toggleParagraphVisibility} src="./assets/add.png" />
+              <img onClick={toggleParagraphVisibility} src="./assets/add.png" alt="img"/>
             </div>
             {isParagraphVisible && (
               <p>
@@ -248,7 +248,7 @@ const Pricing = () => {
               <h3 className="lg:text-3xl text-xl font-bold lg:mt-10 mt-3">
                 Can I Change Plans Or Cancel My Subscription At Any Time?
               </h3>
-              <img onClick={toggleParagraphVisibility} src="./assets/add.png" />
+              <img onClick={toggleParagraphVisibility} src="./assets/add.png" alt="img"/>
             </div>
             {isParagraphVisible && (
               <p>
@@ -269,7 +269,7 @@ const Pricing = () => {
               <h3 className="lg:text-3xl text-xl font-bold lg:mt-10 mt-3">
                 How Secure Is My Data With Roooby CRM?
               </h3>
-              <img onClick={toggleParagraphVisibility} src="./assets/add.png" />
+              <img onClick={toggleParagraphVisibility} src="./assets/add.png" alt="img"/>
             </div>
             {isParagraphVisible && (
               <p>
@@ -290,7 +290,7 @@ const Pricing = () => {
               <h3 className="lg:text-3xl text-xl font-bold lg:mt-10 mt-3">
                 What Is The Uptime Guarantee?
               </h3>
-              <img onClick={toggleParagraphVisibility} src="./assets/add.png" />
+              <img onClick={toggleParagraphVisibility} src="./assets/add.png" alt="img"/>
             </div>
             {isParagraphVisible && (
               <p>
@@ -311,7 +311,7 @@ const Pricing = () => {
               <h3 className="lg:text-3xl text-xl font-bold lg:mt-10 mt-3">
                 How Can I Add More Emails To My Account?
               </h3>
-              <img onClick={toggleParagraphVisibility} src="./assets/add.png" />
+              <img onClick={toggleParagraphVisibility} src="./assets/add.png" alt="img"/>
             </div>
             {isParagraphVisible && (
               <p>

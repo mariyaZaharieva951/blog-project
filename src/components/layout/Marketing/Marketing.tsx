@@ -9,11 +9,11 @@ const Marketing= () => {
             <h2 className="lg:text-5xl text-3xl leading-relaxed font-bold">Marketing</h2>
             <p className="mt-7 lg:text-lg leading-7">Market like the most successful companies in the world with Agile CRM`s marketing automation software. </p>
             <ul className="lg:text-lg mt-5">
-                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg"/>
+                <li className="flex items-start mb-3"><img className="mr-3" src="./assets/list.svg" alt="img"/>
                     Marketing workflows with an easy drag-and-drop designer</li>
-                <li className="flex items-start mb-3"><img  className="mr-3" src="./assets/list.svg"/>
+                <li className="flex items-start mb-3"><img  className="mr-3" src="./assets/list.svg" alt="img"/>
                     Use our templates to create high converting, mobile responsive landing pages</li>
-                <li className="flex items-start mb-3"><img  className="mr-3" src="./assets/list.svg"/>
+                <li className="flex items-start mb-3"><img  className="mr-3" src="./assets/list.svg" alt="img"/>
                     Integrate social media easily into your marketing campaigns & contact views</li>
             </ul>
         </div>

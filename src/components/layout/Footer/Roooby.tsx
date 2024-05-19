@@ -6,9 +6,9 @@ const Roooby = () => {
                 Our team created a fully integrated sales and marketing solution for SMBs
             </p>
             <div className="flex gap-2 lg:justify-start justify-center pb-12 lg:pb-0">
-                <img src="./assets/twitter.png"/>
-                <img src="./assets/facebook.png"/>
-                <img src="./assets/linkedin.png"/>
+                <img src="./assets/twitter.png" alt="img"/>
+                <img src="./assets/facebook.png" alt="img"/>
+                <img src="./assets/linkedin.png" alt="img"/>
             </div>
         </div>
     );

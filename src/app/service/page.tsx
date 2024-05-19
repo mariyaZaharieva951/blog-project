@@ -29,7 +29,7 @@ const Service = () => {
         <img
               className="lg:w-[945px] mx-auto lg:h-[511px]"
               src="./assets/service-blog.png"
-            />
+              alt="img" />
       </div>
       </div>
 
@@ -74,7 +74,7 @@ const Service = () => {
         </p>
         <div className="flex flex-col  gap-5">
           <p className="text-base  text-gray-darked"> Matthew Barker </p>
-          <img className="w-[748px] h-[405px]" src="./assets/barker.png" />
+          <img className="w-[748px] h-[405px]" src="./assets/barker.png" alt="img"/>
         </div>
         <h2 className="lg:text-5xl text-3xl font-bold mt-12">
           What is a sales funnel?
@@ -116,16 +116,16 @@ const Service = () => {
         </p>
         <div className="flex justify-between  border-y-2 border-gray-darked py-3 mb-[120px]">
           <div className="flex gap-3 items-center my-3">
-            <img src="./assets/oval.png" />
+            <img src="./assets/oval.png" alt="img"/>
             <div className="flex flex-col">
               <p className="font-bold">Brandon Show</p>
               <p className="text-gray-dark">Founder & CEO</p>
             </div>
           </div>
           <div className="flex items-center gap-3">
-            <img src="./assets/facebook.png"/>
-            <img src="./assets/twitter.png"/>
-            <img src="./assets/linkedin.png"/>
+            <img src="./assets/facebook.png" alt="img"/>
+            <img src="./assets/twitter.png" alt="img"/>
+            <img src="./assets/linkedin.png" alt="img"/>
           </div>
         </div>
         
@@ -138,7 +138,7 @@ const Service = () => {
             <p className="lg:w-full text-base text-sm border-b-2 border-gray-darked pb-5 text-gray-darked uppercase font-bold ">
               Service
             </p>
-            <img className="w-[361px] h-[241px] mt-3" src="./assets/blog7.png" />
+            <img className="w-[361px] h-[241px] mt-3" src="./assets/blog7.png" alt="img"/>
             <h3 className="lg:w-[361px] font-bold lg:text-2xl text-xl">
             Sales Funnels: Definition, Process, Stages and Examples
             </h3>
@@ -153,7 +153,7 @@ const Service = () => {
             <p className="lg:w-full text-base text-sm border-b-2 border-gray-darked pb-5 text-gray-darked uppercase font-bold">
               Sales
             </p>
-            <img className="w-[361px] h-[241px] mt-3" src="./assets/blog8.png" />
+            <img className="w-[361px] h-[241px] mt-3" src="./assets/blog8.png" alt="img"/>
             <h3 className="lg:w-[361px]  font-bold lg:text-2xl text-xl">
             What is a sales and how do you build one?
             </h3>
@@ -168,7 +168,7 @@ const Service = () => {
             <p className="lg:w-full text-base text-sm border-b-2 border-gray-darked pb-5 text-gray-darked uppercase font-bold">
               Service
             </p>
-            <img className="w-[361px] h-[241px] mt-3" src="./assets/blog9.png" />
+            <img className="w-[361px] h-[241px] mt-3" src="./assets/blog9.png" alt="img"/>
             <h3 className="lg:w-[361px]  font-bold lg:text-2xl text-xl">
             10 real estate cold calling scripts to increase lead 
             </h3>

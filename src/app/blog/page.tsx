@@ -55,7 +55,7 @@ const Blog = () => {
           </div>
           <img
             className="w-[555px] h-[370px] mx-auto lg:mx-0"
-            src="./assets/blog-img.png"
+            src="./assets/blog-img.png" alt="img"
           />
         </div>
 
@@ -64,7 +64,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               News
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog1.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog1.png"  alt="img"/>
             <h3 className="w-[361px] font-bold lg:text-2xl text-xl">
               Learn from My Mistakes: 7 Digital Course Pitfalls to Skip
             </h3>
@@ -80,7 +80,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Sales
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog2.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog2.png" alt="img"/>
             <h3 className="w-[361px]  font-bold lg:text-2xl text-xl">
               How To Do Representation in Marketing the Right Way
             </h3>
@@ -96,7 +96,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Sales
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog3.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog3.png" alt="img"/>
             <h3 className="w-[361px]  font-bold lg:text-2xl text-xl">
               The Psychology of Short-Form Content: Why We Love...
             </h3>
@@ -115,7 +115,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Sales
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog4.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog4.png" alt="img"/>
             <h3 className="w-[361px] font-bold lg:text-2xl text-xl">
               The Challenger Sale model: How to lead the conversation
             </h3>
@@ -131,7 +131,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Product
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog5.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog5.png" alt="img"/>
             <h3 className="w-[361px] font-bold lg:text-2xl text-xl">
               3 ways To automate your lead generation process
             </h3>
@@ -147,7 +147,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Product
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog6.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog6.png" alt="img"/>
             <h3 className="w-[361px] font-bold lg:text-2xl text-xl">
               Marketplace Monthly Apps Spotlight: Aug 2023
             </h3>
@@ -167,7 +167,7 @@ const Blog = () => {
           </p>
           <div className="flex lg:flex-row flex-col lg:justify-between justify-center gap-5">
             <div className="lg:w-[555px] lg:h-[581px] flex flex-col lg:items-start  gap-7 border-t-2 border-gray-dark pt-4">
-              <img src="./assets/blog-marketing.png" />
+              <img src="./assets/blog-marketing.png" alt="img"/>
               <h3 className="lg:w-[555px] lg:text-3xl text-xl font-bold">
                 Email marketing best practices: 10 experts share their email
                 tips
@@ -242,7 +242,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Service
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog7.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog7.png" alt="img"/>
             <h3 className="w-[361px] font-bold lg:text-2xl text-xl">
               Sales Funnels: Definition, Process, Stages and Examples
             </h3>
@@ -255,7 +255,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Sales
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog8.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog8.png" alt="img"/>
             <h3 className="w-[361px]  font-bold lg:text-2xl text-xl">
               What is a sales and how do you build one?
             </h3>
@@ -270,7 +270,7 @@ const Blog = () => {
             <p className="text-base text-sm text-gray-darked uppercase font-bold">
               Service
             </p>
-            <img className="w-[361px] h-[241px]" src="./assets/blog9.png" />
+            <img className="w-[361px] h-[241px]" src="./assets/blog9.png" alt="img"/>
             <h3 className="w-[361px]  font-bold lg:text-2xl text-xl">
               10 real estate cold calling scripts to increase lead
             </h3>

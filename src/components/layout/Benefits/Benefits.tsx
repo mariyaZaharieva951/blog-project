@@ -9,7 +9,7 @@ const Benefits = () => {
         <div className="lg:custom-container lg:justify-center flex lg:flex-row flex-col items-center gap-2">
             <section className="lg:w-[374px] lg:h-[439px] w-[374px] h-auto sm:pb-3 flex flex-col justify-evenly bg-blue-benefit rounded-md hover:bg-yellow hover:text-black-tx px-10">
                 <div className="lg:w-[63px] lg:h-[72px] w-[30%]  sm:my-12 xs:my-12">
-                    <img src='./assets/b1.svg' className='w-full group-hover:invert'/>
+                    <img src='./assets/b1.svg' className='w-full group-hover:invert' alt="img"/>
                 </div>
                 <div className="flex flex-col items-start gap-3 border-t-2 pr-12">
                     <h4 className="text-xl font-bold mt-5">Lead customers to happiness</h4>
@@ -18,7 +18,7 @@ const Benefits = () => {
             </section>
             <section className="lg:w-[374px] lg:h-[439px] w-[374px] h-auto sm:pb-3 flex flex-col justify-evenly bg-blue-benefit rounded-md hover:bg-yellow hover:text-black-tx px-10">
                 <div className="lg:w-[63px] lg:h-[72px] w-[30%] sm:my-12 xs:my-12">
-                    <img src='./assets/b2.svg' className='w-full group-hover:invert'/>
+                    <img src='./assets/b2.svg' className='w-full group-hover:invert' alt="img"/>
                 </div>
                 <div className="flex flex-col items-start gap-3 border-t-2 pr-12">
                     <h4 className="text-xl font-bold mt-5">Lead customers to happiness</h4>
@@ -27,7 +27,7 @@ const Benefits = () => {
             </section>
             <section className="lg:w-[374px] lg:h-[439px] w-[374px] h-auto sm:pb-3 flex flex-col justify-evenly bg-blue-benefit rounded-md hover:bg-yellow hover:text-black-tx px-10">
                 <div className="lg:w-[63px] lg:h-[72px] w-[30%] sm:my-12 ">
-                    <img src='./assets/b3.svg' className='w-full group-hover:invert'/>
+                    <img src='./assets/b3.svg' className='w-full group-hover:invert' alt="img"/>
                 </div>
                 <div className="flex flex-col items-start gap-3 border-t-2 pr-12">
                     <h4 className="text-xl font-bold mt-5">Lead customers to happiness</h4>

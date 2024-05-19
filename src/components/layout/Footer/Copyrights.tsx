@@ -25,7 +25,7 @@ const Copyrights = () => {
         </ul>
       </div>
       <div className="flex gap-2 items-center">
-        <img src="./assets/earth.png" />
+        <img src="./assets/earth.png" alt="img"/>
         <div className="relative">
           <button onClick={toggleDropdown} className="focus:outline-none">
             {selectedLanguage} {">"}

@@ -15,7 +15,7 @@ const Service = () => {
             </ul>
         </div>
         <div className="lg:w-[555px] w-[500px] flex mx-auto lg:mx-0 lg:h-[555px]">
-            <img className="lg:w-full h-auto" src="./assets/service.png"/>
+            <img className="lg:w-full h-auto" src="./assets/service.png" alt="img"/>
         </div>
       </div>
     );
