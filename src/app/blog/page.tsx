@@ -229,11 +229,11 @@ const Blog = () => {
 
         <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col flex-nowrap gap-7 pb-[100px] pt-[80px] px-7 lg:px-0">
           <div className="w-[361px] flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
-            <p className="text-base text-sm text-gray-darked uppercase font-bold">
+            <p className="lg:w-full text-base text-sm text-gray-darked uppercase font-bold">
               Service
             </p>
             <img className="w-[361px] h-[241px]" src="./assets/blog7.png" alt="img"/>
-            <h3 className="w-[361px] font-bold lg:text-2xl text-xl">
+            <h3 className="lg:w-[361px] font-bold lg:text-2xl text-xl">
               Sales Funnels: Definition, Process, Stages and Examples
             </h3>
             <p className="lg:text-base text-sm mt-3">
@@ -242,11 +242,11 @@ const Blog = () => {
             </p>
           </div>
           <div className="w-[361px] flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
-            <p className="text-base text-sm text-gray-darked uppercase font-bold">
+            <p className="lg:w-full text-base text-sm text-gray-darked uppercase font-bold">
               Sales
             </p>
             <img className="w-[361px] h-[241px]" src="./assets/blog8.png" alt="img"/>
-            <h3 className="w-[361px]  font-bold lg:text-2xl text-xl">
+            <h3 className="lg:w-[361px]  font-bold lg:text-2xl text-xl">
               What is a sales and how do you build one?
             </h3>
             <p className="lg:text-base text-sm mt-3">
@@ -257,11 +257,11 @@ const Blog = () => {
             </p>
           </div>
           <div className="w-[361px] flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
-            <p className="text-base text-sm text-gray-darked uppercase font-bold">
+            <p className="lg:w-full text-base text-sm text-gray-darked uppercase font-bold">
               Service
             </p>
             <img className="w-[361px] h-[241px]" src="./assets/blog9.png" alt="img"/>
-            <h3 className="w-[361px]  font-bold lg:text-2xl text-xl">
+            <h3 className="lg:w-[361px]  font-bold lg:text-2xl text-xl">
               10 real estate cold calling scripts to increase lead
             </h3>
             <p className="lg:text-base text-sm mt-3">
