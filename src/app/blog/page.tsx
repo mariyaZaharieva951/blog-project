@@ -71,7 +71,6 @@ const Blog = () => {
             <p className="lg:text-base text-sm mt-3">
               29 Jun 2024,
               <span className="font-bold text-gray-darked">
-                {" "}
                 by Joshua Nash
               </span>
             </p>
@@ -87,7 +86,6 @@ const Blog = () => {
             <p className="lg:text-base text-sm mt-3">
               20 Mar 2022,
               <span className="font-bold text-gray-darked">
-                {" "}
                 by Bill Hollaway
               </span>
             </p>
@@ -103,7 +101,6 @@ const Blog = () => {
             <p className="lg:text-base text-sm mt-3">
               07 Jun 2024,
               <span className="font-bold text-gray-darked">
-                {" "}
                 by Stephen Henderson
               </span>
             </p>
@@ -122,7 +119,6 @@ const Blog = () => {
             <p className="lg:text-base text-sm mt-3">
               09 Jan 2024,
               <span className="font-bold text-gray-darked">
-                {" "}
                 by Joshua Nash
               </span>
             </p>
@@ -138,7 +134,6 @@ const Blog = () => {
             <p className="lg:text-base text-sm mt-3">
               08 Jul 2024,
               <span className="font-bold text-gray-darked">
-                {" "}
                 by Leroy Fugueroa
               </span>
             </p>
@@ -154,7 +149,6 @@ const Blog = () => {
             <p className="lg:text-base text-sm mt-3">
               05 Aug 2024,
               <span className="font-bold text-gray-darked">
-                {" "}
                 by Joshua Nash
               </span>
             </p>
@@ -175,7 +169,6 @@ const Blog = () => {
               <p className="lg:text-base text-sm mt-3">
                 23 Nov 2023,
                 <span className="font-bold text-gray-darked">
-                  {" "}
                   by Joshua Nash
                 </span>
               </p>
@@ -189,7 +182,6 @@ const Blog = () => {
                   <p className="lg:text-base text-sm mb-7">
                     11 Aug 2023,
                     <span className="font-bold text-gray-darked">
-                      {" "}
                       by Joshua Nash
                     </span>
                   </p>
@@ -207,7 +199,6 @@ const Blog = () => {
                   <p className="lg:text-base text-sm mb-7">
                     11 Oct 2022,
                     <span className="font-bold text-gray-darked">
-                      {" "}
                       by Laura Ryan
                     </span>
                   </p>
@@ -224,7 +215,6 @@ const Blog = () => {
                   <p className="lg:text-base text-sm">
                     30 Jan 2022,
                     <span className="font-bold text-gray-darked">
-                      {" "}
                       by Alice Washington
                     </span>
                   </p>

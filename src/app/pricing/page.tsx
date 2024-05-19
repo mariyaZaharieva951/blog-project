@@ -17,7 +17,7 @@ const Pricing = () => {
       <div className="lg:w-[1140px] mx-auto h-auto font-custom-font flex flex-col">
         <div className="flex lg:flex-row flex-col lg:justify-between justify-center lg:items-end items-center my-[80px]">
           <h1 className="lg:w-[689px] lg:text-6xl text-3xl font-bold">
-            Choose the right plan{" "}
+            Choose the right plan
             <span className="text-gray-darked">for your business</span>
           </h1>
           <p className="lg:w-[360px] lg:text-lg text-base mx-[80px] mt-5">
@@ -65,7 +65,7 @@ const Pricing = () => {
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
                 <img src="./assets/ic_done.png" alt="img"/>
-                Marketing Automation{" "}
+                Marketing Automation
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
                 <img src="./assets/ic_done.png" alt="img"/>
@@ -127,7 +127,7 @@ const Pricing = () => {
               </li>
               <li className="flex gap-2">
                 <img src="./assets/ic_done.png" alt="img"/>
-                Marketing Automation{" "}
+                Marketing Automation
               </li>
               <li className="flex gap-2">
                 <img src="./assets/ic_done.png" alt="img"/>
@@ -135,11 +135,11 @@ const Pricing = () => {
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
                 <img src="./assets/ic_done.png" alt="img"/>
-                Automated Voicemails{" "}
+                Automated Voicemails
               </li>
               <li className="flex gap-2 text-gray-dark line-through">
                 <img src="./assets/ic_done.png" alt="img"/>
-                Post-call Automation{" "}
+                Post-call Automation
               </li>
             </ul>
           </section>
