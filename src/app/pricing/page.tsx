@@ -16,11 +16,11 @@ const Pricing = () => {
       <Header />
       <div className="lg:w-[1140px] mx-auto h-auto font-custom-font flex flex-col">
         <div className="flex lg:flex-row flex-col lg:justify-between justify-center lg:items-end items-center my-[80px]">
-          <h1 className="lg:max-w-[689px] max-w-[450px] lg:text-6xl text-3xl font-bold">
+          <h1 className="lg:max-w-[689px] lg:text-6xl text-3xl ml-4 lg:ml-0 font-bold">
             Choose the right plan
             <span className="text-gray-darked">  for your business</span>
           </h1>
-          <p className="lg:max-w-[360px] max-w-[330px] lg:text-lg text-base mx-[70px] mt-5">
+          <p className="lg:max-w-[360px] lg:text-lg text-base mx-[70px] mt-5">
             Built with love for growing businesses. Check out the Roooby CRM
             pricing grid below. Switch between plans at any time.
           </p>
