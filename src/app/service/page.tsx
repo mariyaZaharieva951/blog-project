@@ -10,7 +10,7 @@ const Service = () => {
         <div className="bg-gray-bg">
       <Header />
       </div>
-      <div className="w-full bg-gray-bg pt-[80px] mx-3 lg:mx-0">
+      <div className="w-full bg-gray-bg pt-[80px] lg:mx-0">
       <div className="lg:w-[1140px] mx-auto h-auto font-custom-font flex flex-col">
         <div className="lg:w-[865px] mx-auto flex flex-col gap-3 items-start">
           <p className="lg:text-sm text-xs uppercase text-gray-darked ml-12">Service</p>
@@ -33,7 +33,7 @@ const Service = () => {
       </div>
       </div>
 
-      <div className="lg:w-[750px] lg:mx-auto flex  flex-col gap-5 px-[60px] lg:px-[25] my-[60px] mx-3 bg-white-text">
+      <div className="lg:w-[750px] lg:mx-auto flex  flex-col gap-5 px-[60px] lg:px-[25] lg:my-[60px] my-8 bg-white-text">
         <p className="lg:text-lg  text-base font-bold mb-8">
           The Psychology of Short-Form Content: Why We Love Bite-Sized Videos.
           The Psychology of Short-Form Content: Why We Love Bite-Sized Videos.
@@ -74,7 +74,7 @@ const Service = () => {
         </p>
         <div className="flex flex-col  gap-5">
           <p className="text-base  text-gray-darked"> Matthew Barker </p>
-          <img className="w-[748px] h-[405px]" src="./assets/barker.png" alt="img"/>
+          <img className="lg:w-[748px] lg:h-[405px]" src="./assets/barker.png" alt="img"/>
         </div>
         <h2 className="lg:text-5xl text-3xl font-bold mt-12">
           What is a sales funnel?
@@ -114,7 +114,7 @@ const Service = () => {
           velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum
           fugiat quo voluptas nulla pariatur?
         </p>
-        <div className="flex justify-between  border-y-2 border-gray-darked py-3 mb-[120px]">
+        <div className="flex justify-between  border-y-2 border-gray-darked py-3 lg:mb-[120px] mb-10">
           <div className="flex gap-3 items-center my-3">
             <img src="./assets/oval.png" alt="img"/>
             <div className="flex flex-col">
@@ -131,9 +131,9 @@ const Service = () => {
         
       </div>
 
-      <div className="w-[full] bg-gray-bg mx-3 lg:mx-0">
-            <h2 className="lg:w-[945px] max-w-[360px] mx-auto lg:text-5xl lg:ml-[190px] text-3xl font-bold pt-[60px]">More from this topic</h2>
-            <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col items-center flex-nowrap gap-7 pb-[100px] pt-[80px]">
+      <div className="w-[full] bg-gray-bg lg:mx-0">
+            <h2 className="lg:w-[945px] mx-auto lg:text-5xl lg:ml-[190px] text-3xl font-bold lg:pt-[60px] pt-10 ml-3 lg:ml-0">More from this topic</h2>
+            <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col items-center flex-nowrap gap-7 pb-[100px] lg:pt-[80px] pt-12">
           <div className="w-[361px] flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
             <p className="lg:w-full text-base text-sm border-b-2 border-gray-darked pb-5 text-gray-darked uppercase font-bold ">
               Service

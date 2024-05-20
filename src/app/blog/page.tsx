@@ -16,23 +16,23 @@ const Blog = () => {
             <span className="text-gray-darked"> from our experts</span>
           </h1>
           <div className="lg:w-[689px]">
-            <ul className="flex lg:gap-[60px] lg:gap-10 gap-5 justify-start text-nowrap">
-              <li className=" text-gray-darked lg:text-lg pb-7 text-base hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
+            <ul className="flex lg:gap-[60px] gap-3 justify-start text-nowrap mx-2 lg:mx-0">
+              <li className=" text-gray-darked lg:text-lg text-sm pb-7 hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
                 All Articles
               </li>
-              <li className=" text-gray-darked lg:text-lg pb-7 text-base hover:cursor-pointer  hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
+              <li className=" text-gray-darked lg:text-lg pb-7 text-sm hover:cursor-pointer  hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
                 Sales
               </li>
-              <li className=" text-gray-darked lg:text-lg pb-7 text-base hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
+              <li className=" text-gray-darked lg:text-lg pb-7 text-sm hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
                 Marketing
               </li>
-              <li className=" text-gray-darked lg:text-lg pb-7 text-base hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
+              <li className=" text-gray-darked lg:text-lg pb-7 text-sm hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
                 <Link href="/service">Service</Link>
               </li>
-              <li className=" text-gray-darked lg:text-lg pb-7 text-base hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
+              <li className=" text-gray-darked lg:text-lg pb-7 text-sm hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
                 Product
               </li>
-              <li className=" text-gray-darked lg:text-lg pb-7 text-base hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
+              <li className=" text-gray-darked lg:text-lg pb-7 text-sm hover:cursor-pointer hover:text-black-tx hover:font-bold hover:border-b-2 hover:border-green-tx">
                 News
               </li>
             </ul>
@@ -40,7 +40,7 @@ const Blog = () => {
         </div>
       </div>
       <div className="bg-white-text">
-        <div className="lg:w-[1140px] mx-auto lg:custom-container flex flex-col lg:flex-row gap-7 py-[100px] font-custom-font">
+        <div className="lg:w-[1140px] mx-auto lg:custom-container flex flex-col lg:flex-row gap-7 lg:py-[100px] py-12 font-custom-font">
           <div className="flex flex-col items-start border-t-2 border-b-2 py-7 border-gray-darked mx-12 md:mx-12 lg:mx-0">
             <p className="lg:text-sm text-xs uppercase text-gray-darked mb-5">
               Service
@@ -109,7 +109,7 @@ const Blog = () => {
 
         <div className="lg:w-[1140px] mx-auto flex lg:flex-row flex-col items-center flex-nowrap gap-7">
           <div className="flex flex-col gap-3 lg:items-start mx-[130px] lg:mx-0">
-            <p className="text-base text-sm text-gray-darked uppercase font-bold">
+            <p className="lg:text-base text-sm text-gray-darked uppercase font-bold">
               Sales
             </p>
             <img className="w-[361px] h-[241px]" src="./assets/blog4.png" alt="img"/>
